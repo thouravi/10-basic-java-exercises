@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class CalculateSum {
     public static void main(String[] args) {
         System.out.print("Enter Two Numbers:");
         Scanner sc = new Scanner(System.in);
